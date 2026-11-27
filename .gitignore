@@ -1,0 +1,6 @@
+.godot/
+*.translation
+exports/
+/android/
+*.log
+override.cfg
